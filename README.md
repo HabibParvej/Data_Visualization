@@ -34,7 +34,7 @@ Marketing data analysis provides valuable insights for understanding customer de
 
 ## Usage
 
-To replicate this analysis, ensure you have the required dataset file (`Marketing.csv`) in your working directory and the following Python libraries installed:
+To replicate this analysis, ensure you have the required dataset file (`Synthetic_customer_data.csv`) in your working directory and the following Python libraries installed:
 - pandas
 - matplotlib
 - seaborn
